@@ -6,8 +6,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 30 Jul 2021 12:24:36 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 12:48:43 +0200</lastBuildDate>
         <atom:link href="https://jaumemaimo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Prova2</title>
+            <link>https://jaumemaimo.github.io/posts/prova2/</link>
+            <pubDate>Fri, 30 Jul 2021 12:48:43 +0200</pubDate>
+            
+            <guid>https://jaumemaimo.github.io/posts/prova2/</guid>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt leo ut enim laoreet fringilla. Cras ac neque fermentum, lobortis odio sed, bibendum orci. Etiam vestibulum, leo a fermentum auctor, ex lectus fringilla tortor, a dictum lorem sem ut mi. Sed pretium semper aliquam. Vestibulum tempor ante non lobortis scelerisque. Nam in eros scelerisque, cursus est eu, rutrum magna. Nunc accumsan tempor pellentesque. Pellentesque libero ligula, aliquet mollis hendrerit id, hendrerit sed dolor.</description>
+            <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt leo ut enim laoreet fringilla. Cras ac neque fermentum, lobortis odio sed, bibendum orci. Etiam vestibulum, leo a fermentum auctor, ex lectus fringilla tortor, a dictum lorem sem ut mi. Sed pretium semper aliquam. Vestibulum tempor ante non lobortis scelerisque. Nam in eros scelerisque, cursus est eu, rutrum magna. Nunc accumsan tempor pellentesque. Pellentesque libero ligula, aliquet mollis hendrerit id, hendrerit sed dolor. Vestibulum tristique in ipsum ac ullamcorper. In suscipit cursus eros nec posuere. Quisque accumsan arcu ut purus pharetra volutpat. Cras porttitor volutpat orci ac aliquam. Duis nulla augue, faucibus quis metus sed, pulvinar tempus nunc.</p>
+<p>Maecenas nec nunc ac elit dictum auctor. Aliquam eu nunc ligula. Morbi nunc elit, egestas sed convallis nec, tempor a dolor. Curabitur non accumsan justo. Donec dapibus molestie gravida. Aenean quis nibh eu tortor condimentum volutpat. Aenean varius diam vitae ex gravida consequat. Maecenas fringilla, lorem lobortis porttitor sagittis, eros nisl molestie justo, ac luctus metus ligula et dui. Etiam luctus arcu ex, sollicitudin euismod tortor feugiat sit amet. Proin sed posuere nisi. Quisque eget mauris nec lacus scelerisque interdum.</p>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin faucibus vitae tortor nec cursus. Curabitur imperdiet accumsan volutpat. Nunc blandit id augue molestie iaculis. Praesent euismod elit lacus, quis efficitur magna ultrices eu. Morbi volutpat erat eget erat condimentum tincidunt. Donec pulvinar, lectus a fringilla aliquam, sem nulla gravida turpis, vel ornare nunc dolor eget magna. Donec eu enim tellus. Integer ac mollis magna.</p>
+<p>Vestibulum commodo ante ut diam aliquam lacinia. Phasellus non nulla diam. Praesent euismod odio ut elit mattis, non tincidunt urna bibendum. Duis laoreet ante dolor, eget auctor nisl interdum at. Sed nec ultrices lorem. Proin in dapibus sapien. Phasellus in felis efficitur, efficitur mi vel, pulvinar neque. Donec mollis accumsan vestibulum.</p>
+<p>Vestibulum euismod magna et tortor accumsan, eget laoreet arcu consequat. Mauris diam tortor, pellentesque et dui nec, scelerisque pellentesque diam. Vivamus augue nibh, convallis at justo sed, scelerisque dignissim mauris. Sed lacinia tincidunt lacus. Fusce viverra nulla justo, et commodo quam sodales vitae. In ipsum libero, condimentum eu tellus euismod, luctus luctus tortor. Nam ac dui neque. Sed in eros id nulla interdum mattis ut posuere velit.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Prova</title>
