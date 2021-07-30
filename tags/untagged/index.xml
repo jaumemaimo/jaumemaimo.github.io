@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Hello Friend NG</title>
+    <link>https://jaumemaimo.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Hello Friend NG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 30 Jul 2021 12:24:36 +0200</lastBuildDate><atom:link href="https://jaumemaimo.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prova</title>
+      <link>https://jaumemaimo.github.io/posts/prova/</link>
+      <pubDate>Fri, 30 Jul 2021 12:24:36 +0200</pubDate>
+      
+      <guid>https://jaumemaimo.github.io/posts/prova/</guid>
+      <description>This is some content
+public static void main (String[]args){ } </description>
+    </item>
+    
+  </channel>
+</rss>
